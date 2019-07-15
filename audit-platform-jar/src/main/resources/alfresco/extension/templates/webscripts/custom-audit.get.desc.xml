@@ -1,0 +1,9 @@
+<webscript>
+    <shortname>Audit Webscript</shortname>
+    <description>Just audit</description>
+    <url>/com/domain/audit</url>
+    <authentication>user</authentication>
+    <family>devv</family>
+    <format default="html"></format>
+    <lifecycle>sample</lifecycle>    
+</webscript>

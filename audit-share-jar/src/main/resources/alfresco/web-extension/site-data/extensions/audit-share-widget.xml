@@ -1,0 +1,14 @@
+<extension>
+	<modules>
+		<module>
+			<id>Audit Widgets</id>
+			<version>1.0</version>
+			<auto-deploy>true</auto-deploy>
+			<customization>
+				<targetPackageRoot>org.alfresco.share.header</targetPackageRoot>
+				<sourcePackageRoot>com.domain.audit.share.header
+				</sourcePackageRoot>
+			</customization>
+		</module>
+	</modules>
+</extension>
